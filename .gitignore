@@ -1,0 +1,19 @@
+# Notebooks ficam fora do commit inicial
+*.ipynb
+
+# Segredos e ambiente
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
