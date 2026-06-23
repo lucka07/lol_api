@@ -72,7 +72,3 @@ Resposta:
   "model_features": 349
 }
 ```
-
-## Observacoes
-
-Os notebooks foram deixados fora do commit inicial por enquanto. Chaves da Riot API nao devem ser versionadas; use variaveis de ambiente, como `RIOT_API_KEY`.
